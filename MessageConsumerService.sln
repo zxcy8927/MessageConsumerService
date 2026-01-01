@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageConsumerService", "MessageConsumerService.csproj", "{6CF5D9B0-B94A-4A0C-9422-8943308F0BF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageConsumerService.Tests", "MessageConsumerService.Tests\MessageConsumerService.Tests.csproj", "{A666CABE-136F-4F12-AF2B-E64949F5F762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF5D9B0-B94A-4A0C-9422-8943308F0BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF5D9B0-B94A-4A0C-9422-8943308F0BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF5D9B0-B94A-4A0C-9422-8943308F0BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF5D9B0-B94A-4A0C-9422-8943308F0BF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A666CABE-136F-4F12-AF2B-E64949F5F762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A666CABE-136F-4F12-AF2B-E64949F5F762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A666CABE-136F-4F12-AF2B-E64949F5F762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A666CABE-136F-4F12-AF2B-E64949F5F762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3073C76-FCBD-4E1F-94A0-2242DC17A25A}
+	EndGlobalSection
+EndGlobal
